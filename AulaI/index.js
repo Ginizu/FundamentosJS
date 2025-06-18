@@ -1,0 +1,1 @@
+console.log('Olá mundo!') //Primeiro código para quebrar a maldição :v
