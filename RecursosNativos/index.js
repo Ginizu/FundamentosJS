@@ -3,8 +3,12 @@ let name = "Gigica"
 console.log(name)
 console.error(name)
 console.warn(name)
+window.alert(name)
 
-//window.alert(name)
-name = window.prompt("Insisira o seu nome")
+//name = window.prompt("Insisira o seu nome")
+//let confimacao = window.confirm("Confirma esta ação?")
+//consol.log(confimacao)
 
-consol.log(name)
+alert("Olá Mundo!")
+
+document
