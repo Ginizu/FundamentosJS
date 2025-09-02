@@ -35,7 +35,7 @@ console.log(arr)
 console.log(lastElement)
 
 // Shift
-//Remove elemento no começo do array]
+//Remove elemento no começo do array
 
 lastElement = arr.shift()
 console.log(arr)
